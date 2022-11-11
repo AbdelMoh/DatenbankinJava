@@ -15,5 +15,5 @@ public class Main {
             }*/
             MysqlPro.disconnect();
 
-        }//end class
+        }//end class main
 }
